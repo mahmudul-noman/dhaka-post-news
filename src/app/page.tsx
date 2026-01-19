@@ -9,7 +9,7 @@ import SecondaryFeatured from "@/components/SecondaryFeatured";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white text-black font-sans pb-20">
+    <div className="min-h-screen bg-gray-50 text-black font-sans pb-20">
       <Navbar />
 
       <NewsLayout

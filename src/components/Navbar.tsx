@@ -12,9 +12,6 @@ export default function Navbar() {
 
     return (
         <header className="flex flex-col bg-white mb-8 relative">
-            {/* Top Black Bar */}
-            <div className="w-full h-3 bg-gray-800"></div>
-
             {/* Logo Section */}
             <div className="py-6 text-center">
                 <Link href="/" className="text-2xl md:text-3xl font-black tracking-tight uppercase text-black font-sans">
@@ -23,7 +20,7 @@ export default function Navbar() {
             </div>
 
             {/* Navigation Bar */}
-            <div className="border-t-2 border-b-2 border-black py-3 sticky top-0 bg-white z-50">
+            <div className="border-t-1 py-3 sticky top-0 bg-white z-50">
                 <div className="container mx-auto px-4 flex items-center justify-between">
 
                     {/* Left: Hamburger Menu */}
