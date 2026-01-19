@@ -26,7 +26,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mahmudul-noman/dhaka-post-news.git
    cd dhaka-post-news
    ```
 
@@ -65,3 +65,7 @@ dhaka-post-news/
 ├── package.json     # Dependencies and scripts
 ├── tsconfig.json    # TypeScript configuration
 ```
+
+## 👤 Author
+
+- **Mahmudul Hasan** - [mhnoman.com](https://mhnoman.com)
