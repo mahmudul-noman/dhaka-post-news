@@ -2,6 +2,8 @@
 
 A modern news application built with Next.js 16 and React 19.
 
+**Live Demo:** [https://dhaka-post-news.vercel.app/](https://dhaka-post-news.vercel.app/)
+
 ## 🛠 Tech Stack
 
 - **Framework:** [Next.js 16](https://nextjs.org/)
@@ -62,5 +64,4 @@ dhaka-post-news/
 │   └── ...
 ├── package.json     # Dependencies and scripts
 ├── tsconfig.json    # TypeScript configuration
-└── tailwind.config.ts # Tailwind CSS configuration
 ```
